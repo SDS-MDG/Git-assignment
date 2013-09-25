@@ -1,3 +1,6 @@
+* Android App Development
+* Microcontroller Programming and DIY Electronics
+* Image processing and computer vision
 * PC Gaming
-*Watching movies and cartoons
-*Reading novels (Fiction / Mystery / Fantasy)
+* Watching movies and cartoons
+* Reading novels (Fiction / Mystery / Fantasy)
